@@ -21,3 +21,4 @@ Tabs: Home,Opportunities,Leads,tasks etc--> These all are tabs (These are basica
 
 Lets go to Opportunities Tab:
 Opportunities is a Tab which is associated with an object.
+
