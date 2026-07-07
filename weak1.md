@@ -21,4 +21,32 @@ Tabs: Home,Opportunities,Leads,tasks etc--> These all are tabs (These are basica
 
 Lets go to Opportunities Tab:
 Opportunities is a Tab which is associated with an object.
+Firstly click on the opportunities Tab---> we can see the object which contains records
+--> How to create a record??
+- click on opportunities tab
+- click on New
+- Give the required fields
+- click on Save ----> record created
+
+In Salesforce we have two types of Objects:
+1) Standard Objects-- These objects are Pre-installed by Salesforce no need to create them.
+2) Custom Objects-- If the object has two underscores (_ _) than it is called custom object
+----> To uniquely identify the each object we have API names
+
+Custom Objects And Apps:
+In salesforce object is basically a data table.
+The data stored in table called as records.
+Object is basically used to store different records in Salesforce.
+Field name will be available automatically whenever you will be creating custom object.
+
+--> Creating A Custom Object 
+To create an Object:
+1: Go to Setup---> click on Object Manager---> click on create---> custom object
+2: And fill the required fields
+To Create the Custom Object:
+
+
+
+
+
 
