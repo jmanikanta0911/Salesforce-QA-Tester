@@ -44,6 +44,13 @@ To create an Object:
 1: Go to Setup---> click on Object Manager---> click on create---> custom object
 2: And fill the required fields
 To Create the Custom Object:
+Go to Object Manager ---> click on create ---> custom Object(click)
+1) Label - Property
+2) Plural Labl - Properties (This plural label will be known as tab label)
+3) Object name - Property (It is API )
+4) Description - This is custom object
+--> whenever you will be creating the customm object..one field is automatically created.
+   Field is nothing but a which can stores the information.
 
 
 
