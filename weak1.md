@@ -51,6 +51,46 @@ Go to Object Manager ---> click on create ---> custom Object(click)
 4) Description - This is custom object
 --> whenever you will be creating the customm object..one field is automatically created.
    Field is nothing but a which can stores the information.
+   Object is nothing but an tabe which contains group of records.
+5) Recoord Name- Property Name --> This field will be available automatically whenever you eill be creating the custom object.
+                     |
+              It has two data types: 1) Text - Text value as Property Name
+                                     2) Auto number - This auto number will be created automatically whenever you will be creating a record for proprty object.
+   When you are selecting the Auto number you need to decide two things one is Display Format and Starting Number.
+6) Display Format - P-{0000}
+7) Starting Number - 01
+-> so this way i provided all required information to create the object.
+   There are some optional features available so that you can enable as per your requirements.
+   1) Optional Features:
+      . Allow Reports
+      . Allow Activities
+      . Track Field History
+      . Allow in chatter groups
+   2) Object classification
+      . Allow sharing
+      . Allow Bulk API Access
+      . Allow stream API access
+   3) Deployment status
+      . In Development
+      . Deployed (select this)
+   4) Search Status
+      . Allow search
+   5) Objct creation Options
+      . Add notes and Attachment related list to default page layout
+      . Launch New custom tab wizard ---> save ( you can see custom object is created and here we need to crate its tab)
+ Creating its Tab:
+ Step1: Enter the details
+ Object: Property
+ Tab Style: Box --> Any tab style ---> click nxt
+ Step2: Add to Profiles
+ . Apply one tab visibility to all profiles(select this)
+ . Apply a diff tab visibility for each profile
+** Profile basically decides which user can access this particular tab
+Step3: Add to custom Apps
+Now it is asking on which app you want to place this tab so, in sales application we can see various tabs are available. so if you want to place this tab on sales application so you need to enable that checkbox and you can disable other checkboxes.
+
+    
+   
 
 
 
