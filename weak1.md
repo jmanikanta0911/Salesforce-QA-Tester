@@ -89,7 +89,16 @@ Go to Object Manager ---> click on create ---> custom Object(click)
 Step3: Add to custom Apps
 Now it is asking on which app you want to place this tab so, in sales application we can see various tabs are available. so if you want to place this tab on sales application so you need to enable that checkbox and you can disable other checkboxes.
 
-    
+
+Standard And Custom Applications:
+. Salesforce also comes with variety of standard applications, In salesforce apps are of two types Standard and Custom.
+How to create the custom application??
+Steps:
+1)Firstly open the sales application and click on the setup.
+2)Now search for the app manager and click on it.(In app manager all applications are available, here we can identify wheather application supports classic or lighining environment.
+3)Now click on New Lighting App---> New page is displayed "App details and Branding"
+4)
+
    
 
 
