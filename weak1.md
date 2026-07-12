@@ -97,7 +97,27 @@ Steps:
 1)Firstly open the sales application and click on the setup.
 2)Now search for the app manager and click on it.(In app manager all applications are available, here we can identify wheather application supports classic or lighining environment.
 3)Now click on New Lighting App---> New page is displayed "App details and Branding"
-4)
+4)Give your Lightning app name and description.Upload an image and choose the lightning color for its navigation bar.
+--> App Name- MyCustomApp
+--> Developer Name- My_Custom_App
+--> Desciption- This is my First Custom App
+--> App Branding Image upload,Primary color Hex value
+--> Org Theme Options
+  1) use the apps image and color instead of the Org's custom theme
+  2) App Launcher Preview---> click on Next
+. Once we click on Next we have App Options:
+* Navigation and Form Factor
+- Navigation Style
+  . Standard Navigation (Select this)
+  . Console Navigation
+* Supportd Form Factors
+  . Desktop and Phone (Select this)
+  . Desktop
+  . Phone
+* Setup and Personalization
+  - Setup Experience
+  . Setup (full set of setup options) (select this)
+  . Service setup
 
    
 
