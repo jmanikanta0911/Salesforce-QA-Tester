@@ -118,6 +118,22 @@ Steps:
   - Setup Experience
   . Setup (full set of setup options) (select this)
   . Service setup
+* App Personalization settings
+  . Disable end user personalization of nav items in this app
+  . Disable temporary tabs for items outside of this app
+  . use omni-channel sidebar
+             |
+  clicking on next will navigate to utility items (utility items-desktop only)
+  Add utility item:
+  To add utility item click on Add utility item and some options are available--> choose "chatter publish--> Next --> moves to navigation items--> next steps to add navigation items(This is imp beause here we need to select the types that we want to place an our custom appa)
+                                                           |
+                                                           |
+                                         select Accounts,contacts,properties--->click next---> select for which profile you want this app should be available.
+                                         --> select system administrator ---> save and finish.
+                                                            |
+                                             This way our custom app will be created.This custom app will be seen in app launcher.
+  
+  
 
    
 
