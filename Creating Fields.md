@@ -25,4 +25,37 @@ How to create Fields:
                           * So if you enable this visible checkbox for all the profiles or for a Particular profile,then this will be available for both reading                               and editing
                                                   |
                                               click next
+    step4:           Add to page Layout
+                   we want to add this field to the page layout
+
+                   Add field                 Page layout name ---- leave it and click on save
+
+              if you want to create one more field so you can click on save&New otherwise click on save
+                                        |
+                                  Right now i need to create one more field(Click on save&New)
+                                                      |
+                                  Step1: 
+                                  It shows the list of available data types so now i am selecting currency field so that i can store prce of the property
+                                                        |
+                                                      click on next
+                                                         |
+                                  Step2:  
+                                  Enter the details
+                                               Field Name:Price
+                                               length:18                   Decimal places:2
+                                               Field name:Price
+                                               Description:
+                                               Help Text:
+                                                       |
+                                                      Next
+                                  Step3: Establish the field level security   visible
+                                                      |
+                                                    next
+                                  Step4: add to page layout
+                                               |
+                                              save 
+
+        Exploring our newly custom field:
+          Now you can see on fields&Relationships for this property field.
+                                                  
                                               
